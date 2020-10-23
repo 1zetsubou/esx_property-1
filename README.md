@@ -3,11 +3,11 @@
 
 - Modified Version Of https://github.com/esx-framework/esx_property with logs.
 
-## Includes Logs For Item/Money/Weapon Transfer In And Out:
+ Includes Logs For Item/Money/Weapon Transfer In And Out
 
-## IMAGES OF THE LOGS:
-https://gyazo.com/62f15aedd649625e24399bc1b83b0c9b
-https://gyazo.com/fbafa34b297b36d4af0d1b7f3eedd584
+ IMAGES OF THE LOGS:
+- https://gyazo.com/62f15aedd649625e24399bc1b83b0c9b
+- https://gyazo.com/fbafa34b297b36d4af0d1b7f3eedd584
 
 ### Requirements
 
