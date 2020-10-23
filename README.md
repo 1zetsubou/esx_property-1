@@ -1,6 +1,7 @@
 # esx_property with logs
-All Credits Go To https://github.com/esx-framework/
-Modified Version Of https://github.com/esx-framework/esx_property with logs
+- All Credits Go To https://github.com/esx-framework/
+
+- Modified Version Of https://github.com/esx-framework/esx_property with logs
 
 ### Requirements
 
