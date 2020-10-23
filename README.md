@@ -1,7 +1,13 @@
 # esx_property with logs
 - All Credits Go To https://github.com/esx-framework/
 
-- Modified Version Of https://github.com/esx-framework/esx_property with logs
+- Modified Version Of https://github.com/esx-framework/esx_property with logs.
+
+## Includes Logs For Item/Money/Weapon Transfer In And Out:
+
+## IMAGES OF THE LOGS:
+https://gyazo.com/62f15aedd649625e24399bc1b83b0c9b
+https://gyazo.com/fbafa34b297b36d4af0d1b7f3eedd584
 
 ### Requirements
 
@@ -29,10 +35,6 @@ git clone https://github.com/Mqasim14/esx_property [esx]/esx_property
 ### Manually
 - Download https://codeload.github.com/Mqasim14/esx_property/zip/main
 - Put it in the `[esx]` directory
-
-## IMAGES OF THE LOGS:
-https://gyazo.com/62f15aedd649625e24399bc1b83b0c9b
-https://gyazo.com/fbafa34b297b36d4af0d1b7f3eedd584
 
 ## Installation
 - Import `esx_property.sql` in your database
