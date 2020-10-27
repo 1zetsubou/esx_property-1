@@ -9,6 +9,8 @@
 - https://gyazo.com/62f15aedd649625e24399bc1b83b0c9b
 - https://gyazo.com/fbafa34b297b36d4af0d1b7f3eedd584
 
+## https://discord.gg/jsARZZQ For More Scripts Like This
+
 ### Requirements
 
 - [async](https://github.com/ESX-Org/async)
